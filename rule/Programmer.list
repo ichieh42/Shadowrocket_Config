@@ -1,0 +1,56 @@
+# Android
+DOMAIN-SUFFIX,android.com
+
+# Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,play-with-docker.com
+
+# Disqus
+DOMAIN-KEYWORD,disqus
+
+# Fastly
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.net
+
+# GitHub
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+
+# GitBook
+DOMAIN-SUFFIX,gitbook.io
+
+# Glitch
+DOMAIN-SUFFIX,glitch.com
+
+# GitLab
+DOMAIN-KEYWORD,gitlab
+
+# Go
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+
+# Java
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,oracle.com
+
+# JetBrains
+DOMAIN-KEYWORD,jetbrains
+
+# Rust
+DOMAIN-SUFFIX,rust-lang.org
+
+# SourceForge
+DOMAIN-SUFFIX,sourceforge.net
+
+# Python
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
